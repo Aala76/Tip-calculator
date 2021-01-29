@@ -31,13 +31,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/zauFXa6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-Learning how to use Xcode aSwift for the first time was challenging but fun. 
+Learning how to use Xcode and Swift for the first time was challenging but fun. 
 
 ## License
 
